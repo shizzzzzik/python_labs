@@ -1,0 +1,46 @@
+[
+    {
+        "expression": "55+55",
+        "result": "110"
+    },
+    {
+        "expression": "500-300",
+        "result": "200"
+    },
+    {
+        "expression": "800+200",
+        "result": "1000"
+    },
+    {
+        "expression": "600--400",
+        "result": "1000"
+    },
+    {
+        "expression": "555",
+        "result": "555"
+    },
+    {
+        "expression": "0.5",
+        "result": "0.5"
+    },
+    {
+        "expression": "0.5+555.5+-0.5",
+        "result": "555.5"
+    },
+    {
+        "expression": "55.55+54.45",
+        "result": "110"
+    },
+    {
+        "expression": "85+15",
+        "result": "100"
+    },
+    {
+        "expression": "55555+5555+5555+55555",
+        "result": "122220"
+    },
+    {
+        "expression": "55+55*5",
+        "result": "330"
+    }
+]
