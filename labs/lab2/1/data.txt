@@ -1,0 +1,3 @@
+Hello, my name is Oleksandr. I'm 19 y.o. and I working with languages for programming like JavaScript, TypeScript and Python.
+Sometimes I'm using frameworks like Vue.js and React.js for front-programming in web-apps.
+Right now I make lab2 for college subject "Learning Python programming language".
